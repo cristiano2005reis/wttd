@@ -5,3 +5,4 @@
 *.sqlite3
 *.psyc
 __pycache__
+staticfiles
