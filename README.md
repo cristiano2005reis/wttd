@@ -2,6 +2,10 @@
 
 Sistema de eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/cristiano2005reis/wttd.svg?branch=master)](https://travis-ci.org/cristiano2005reis/wttd)
+[![Code Health](https://landscape.io/github/cristiano2005reis/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/cristiano2005reis/wttd/master)
+
+
 ## Como desenvolver?
 
 1. Clone o repositório.
